@@ -38,7 +38,7 @@ It’s very important for me to develop new skills and keep pushing my limits.
 |         | Level  |
 | ------- | ------ |
 | Spanish | Native |
-| English | B1     |
+| English | B2     |
 | French  | A1     |
 
 ---
@@ -53,7 +53,7 @@ Bachelor of Education in Computer Science
 (NOTE : Many of the project I'd worked are properties of my formers employers and they don't want to publish information on then, hence I won't describe any detail that can compromise this.)
 
 ### 1. Enterprise Architect at Rooftop Ventures
-#### (2020 - Actual)
+#### (december 2020 - Actual)
 
 Team lead and on charge of everseeing every project, pull requests, implementation and infraestructure.
 
@@ -66,8 +66,8 @@ Team lead and on charge of everseeing every project, pull requests, implementati
 - Mentoring devs, reviewing Pull Requests and attending their needs.
 
 
-### 2. Walook
-#### (2018-2020)
+### 2. Full Stack developer at Walook
+#### (december 2018- november 2020)
 
 
 Full Stack developer on a survey system project for a third party client that allows custom survey creation with multiple levels of hierarchy
@@ -76,8 +76,8 @@ Full Stack developer on a survey system project for a third party client that al
 - VueJS with Vuetify for the client app
 
 
-### 3. DATYS 
-#### (2017-2018)
+### 3. Full Stack developer at DATYS 
+#### (december 2016- december 2018)
 Full stack developer at DATYS on multiple projects
 
 - Project deployment using Linux server and Docker
