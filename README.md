@@ -17,19 +17,11 @@ It’s very important for me to develop new skills and keep pushing my limits.
 
 ## Tech stack
 
-| Tech         | Level      |
-| ------------ | ---------- |
-| HTML/CSS     | Strong     |
-| Javascript   | Strong     |
-| React        | Strong     |
-| NodeJS       | Strong     |
-| Docker       | Strong     |
-| NGINX        | Proficient |
-| Linux Server | Proficient |
-| Jenkins      | Novice     |
-| MySQL        | Proficient |
-| MongoDB      | Novice     |
-| Redis        | Novice     |
+**Strong** : HTML/CSS, JavaScript, React, NodeJS, Docker
+
+**Proficient** : NGINX, Linux Server, MySQL
+
+**Novice** : Jenkins, MongoDB, Redis
 
 ---
 
