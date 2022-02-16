@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQHutRGOENwuMw/profile-displayphoto-shrink_800_800/0/1573699408136?e=1638403200&v=beta&t=f7OExYA7GWsQQxAeXR9a1VOyTHa2qo_pS6dxX0h9KWw" style="max-width : 250px; margin-left : auto; margin-right: auto; display: block; padding : 50px;">
+<img src="./assets/pic.jpg" style="max-width : 250px; margin-left : auto; margin-right: auto; display: block; padding : 50px;">
 
 # Isan Rodriguez Trimiño
 
@@ -41,11 +41,20 @@ Bachelor of Education in Computer Science
 
 ---
 
-## Experience (only the last 3)
+## Experience (only the last 4)
 (NOTE : Many of the project I'd worked are properties of my formers employers and they don't want to publish information on then, hence I won't describe any detail that can compromise this.)
 
-### 1. Enterprise Architect at Rooftop Ventures
-#### (december 2020 - Actual)
+### 1. Senior Software Engineer
+#### (october 2021 - Actual)
+
+Senior software engineer working on a Disney project and also collaborating on training of new engineers at the enterprise level.
+
+ - Frontend ReactJS.
+ - Lecturer at Wizeline.
+
+  
+### 2. Enterprise Architect at Rooftop Ventures
+#### (december 2020 - october 2021)
 
 Team lead and on charge of everseeing every project, pull requests, implementation and infraestructure.
 
@@ -68,7 +77,7 @@ Full Stack developer on a survey system project for a third party client that al
 - VueJS with Vuetify for the client app
 
 
-### 3. Full Stack developer at DATYS 
+### 4. Full Stack developer at DATYS 
 #### (december 2016- december 2018)
 Full stack developer at DATYS on multiple projects
 
