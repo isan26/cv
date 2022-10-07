@@ -98,7 +98,8 @@ Full stack developer at DATYS on multiple projects
 
 ## Links
 
-- React Architecture paper : https://github.com/isan26/ReactArchitectureProposal
+- React Architecture paper : https://isan1989.medium.com/frontend-architecture-proposal-using-react-bbe49cf2209e
+- Backend Architecture paper : https://github.com/isan26/backend-architecture
 - Docker talk at Woman Who Code https://github.com/isan26/dockertalk
 - Linkedin Profile : https://www.linkedin.com/in/isan-rodriguez-trimi%C3%B1o-a1a0ba63/
 - Last version of this CV can be found at : https://github.com/isan26/cv
