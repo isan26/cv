@@ -1,4 +1,4 @@
-<img src="./assets/pic.jpg" style="max-width : 250px; margin-left : auto; margin-right: auto; display: block; padding : 50px;">
+<img src="./assets/pic.jpg" style="max-width : 150px; margin-left : auto; margin-right: auto; display: block; padding : 50px;">
 
 # Isan Rodriguez Trimiño
 
@@ -19,9 +19,9 @@ It’s very important for me to develop new skills and keep pushing my limits.
 
 **Strong** : HTML/CSS, JavaScript, React, NodeJS, Docker
 
-**Proficient** : NGINX, Linux Server, MySQL
+**Proficient** : NGINX, Linux Server, MySQL, MongoDB, AWS , TypeScript
 
-**Novice** : Jenkins, MongoDB, Redis
+**Novice** : Jenkins, Redis
 
 ---
 
@@ -48,9 +48,16 @@ Bachelor of Education in Computer Science
 #### (october 2021 - Actual)
 
 Senior software engineer working on a Disney project and also collaborating on training of new engineers at the enterprise level.
+Currently working with the client earnest.com, a lead company in the financial industry.
 
+Experience on this period:
  - Frontend ReactJS.
- - Lecturer at Wizeline.
+ - Typescript
+ - Lecturer at Wizeline (for React).
+ - AWS
+ - Backend with NodeJS.
+ - PostgreSQL
+ - Docker
 
   
 ### 2. Enterprise Architect at Rooftop Ventures
