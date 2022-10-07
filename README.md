@@ -17,7 +17,7 @@ It’s very important for me to develop new skills and keep pushing my limits.
 
 ## Tech stack
 
-**Strong** : HTML/CSS, JavaScript, React, NodeJS, Docker
+**Strong** : HTML/CSS, JavaScript, React, NodeJS, Docker, Software Architecture, S.O.L.I.D principles, Design Patterns, Clean Code.
 
 **Proficient** : NGINX, Linux Server, MySQL, MongoDB, AWS , TypeScript
 
