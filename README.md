@@ -9,9 +9,7 @@
 
 ### About me
 
-Full stack developer with 10+ years of experience, passionate for team work, software architecture, S.O.L.I.D principles, good coding practices and patterns.
-I like to think twice and code once, with a focus on the problem and the people involved rather than an specific tech stack.
-It’s very important for me to develop new skills and keep pushing my limits.
+I am a highly experienced full stack developer with over 10 years in the industry. I am passionate about team work, software architecture, S.O.L.I.D principles, good coding practices and patterns. I am a firm believer in "think twice, code once" and always strive to deliver solutions that are both effective and efficient. I am always seeking to develop new skills and push my limits
 
 ---
 
