@@ -96,6 +96,7 @@ Full stack developer at DATYS on multiple projects
 
 ## Links
 
+- TS Library for building dynamic UIs: https://www.npmjs.com/package/@blitzui/core
 - React Architecture paper : https://isan1989.medium.com/frontend-architecture-proposal-using-react-bbe49cf2209e
 - Backend Architecture paper : https://github.com/isan26/backend-architecture
 - Docker talk at Woman Who Code https://github.com/isan26/dockertalk
