@@ -45,7 +45,7 @@ Bachelor of Education in Computer Science
 
 ### Full Stack developer Lead at Matchpoint Solutions
 
-#### (february 2020 - current)
+#### (February 2022 - current)
 
 Lead software engineer responsible for the design, develop and maintenance of multiple projects related to customers sales for the client Lucid Motors.
 
@@ -59,7 +59,7 @@ Experience on this period:
 
 ### Senior Software Engineer at Wizeline
 
-#### (october 2021 - february 2022)
+#### (October 2021 - February 2022)
 
 Senior software engineer working on a Disney project and also collaborating on training of new engineers at the enterprise level.
 Senior software engineer with the client earnest.com, a lead company in the financial industry.
@@ -76,7 +76,7 @@ Experience on this period:
 
 ### Enterprise Architect at Rooftop Ventures
 
-#### (december 2020 - october 2021)
+#### (December 2020 - October 2021)
 
 Team lead and on charge of everseeing every project, pull requests, implementation and infraestructure.
 
