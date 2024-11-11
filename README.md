@@ -1,4 +1,4 @@
-<img src="./assets/pic.jpg" style="max-width : 150px; margin-left : auto; margin-right: auto; display: block; padding : 50px;">
+<img src="./assets/isan.jpeg" style="max-width : 300px; margin-left : auto; margin-right: auto; display: block; padding : 50px;">
 
 # Isan Rodriguez Trimiño
 
