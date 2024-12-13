@@ -59,7 +59,7 @@ Experience on this period:
 
 ### Senior Software Engineer at Wizeline
 
-#### (October 2022 - February 2023)
+#### (October 2021 - February 2023)
 
 Senior software engineer working on a Disney project and also collaborating on training of new engineers at the enterprise level.
 Senior software engineer with the client earnest.com, a lead company in the financial industry.
@@ -76,7 +76,7 @@ Experience on this period:
 
 ### Enterprise Architect at Rooftop Ventures
 
-#### (December 2020 - October 2022)
+#### (December 2020 - October 2021)
 
 Team lead and on charge of everseeing every project, pull requests, implementation and infraestructure.
 
