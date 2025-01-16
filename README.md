@@ -4,7 +4,7 @@
 
 ### Contact
 
-- Phone : +(52) 1 999 125 6944
+- Phone : +(1) 341-246-4084
 - Email : <isan1989@gmail.com>
 
 ### About me
