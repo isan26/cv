@@ -9,8 +9,9 @@
 
 ### About me
 
-I am a highly experienced full stack developer with over 15 years in the industry. I am passionate about team work, software architecture, S.O.L.I.D principles, good coding practices and patterns. I am a firm believer in "think twice, code once" and always strive to deliver solutions that are both effective and efficient. I am always seeking to develop new skills and push my limits
+I am a seasoned full-stack developer with over 15 years of experience designing and building scalable, high-impact solutions across diverse industries. I am deeply passionate about team collaboration, architecting robust software systems, and adhering to S.O.L.I.D principles and clean coding practices. I bring a strategic, “think twice, code once” approach to problem-solving, ensuring solutions are not only efficient but also maintainable and future-proof.
 
+As a proactive leader and mentor, I excel in guiding teams, fostering a culture of continuous learning, and driving alignment between technical vision and business goals. I thrive in tackling complex challenges, exploring innovative technologies, and delivering results that scale with the needs of the business.
 ---
 
 ## Tech stack
