@@ -17,9 +17,9 @@ As a proactive leader and mentor, I excel in guiding teams, fostering a culture 
 
 ## Tech stack
 
-**Strong** : HTML/CSS, JavaScript, React, NodeJS, Docker, Software Architecture, S.O.L.I.D principles, Design Patterns, Clean Code.
+**Strong** : HTML/CSS, Typescript/Javascript, React, NodeJS, Docker, Software Architecture, S.O.L.I.D principles, Design Patterns, Clean Code,  MongoDB.
 
-**Proficient** : NGINX, Linux Server, MySQL, MongoDB, AWS , TypeScript, NestJS
+**Proficient** : NGINX, Linux Server, MySQL, AWS, NestJS
 
 **Novice** : Jenkins, Redis
 
