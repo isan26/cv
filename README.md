@@ -45,7 +45,7 @@ Bachelor of Education in Computer Science
 
 (NOTE : Many of the project I'd worked are properties of my formers employers and they don't want to publish information on then, hence I won't describe any detail that can compromise this.)
 
-### Full Stack developer Lead at Matchpoint Solutions
+### Tech lead at Matchpoint Solutions
 
 #### (February 2023 - current)
 
