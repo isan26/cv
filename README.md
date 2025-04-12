@@ -11,7 +11,7 @@
 
 I am a seasoned full-stack developer with over 15 years of experience designing and building scalable, high-impact solutions across diverse industries. I am deeply passionate about team collaboration, architecting robust software systems, and adhering to S.O.L.I.D principles and clean coding practices. I bring a strategic, “think twice, code once” approach to problem-solving, ensuring solutions are not only efficient but also maintainable and future-proof.
 
-As a proactive leader and mentor, I excel in guiding teams, fostering a culture of continuous learning, and driving alignment between technical vision and business goals. I thrive in tackling complex challenges, exploring innovative technologies, and delivering results that scale with the needs of the business.
+As a proactive leader and mentor, I excel in guiding teams, fostering a culture of continuous learning and driving alignment between technical vision and business goals. I embrace AI-driven development tools to enhance productivity, accelerate and complement my learning while maintaining high-quality standards. I thrive in tackling complex challenges, exploring innovative technologies, and delivering results that scale with the needs of the business.
 
 ---
 
@@ -45,11 +45,11 @@ Bachelor of Education in Computer Science
 
 (NOTE : Many of the project I'd worked are properties of my formers employers and they don't want to publish information on then, hence I won't describe any detail that can compromise this.)
 
-### Tech lead at Matchpoint Solutions
+### Tech lead at Lucid Motors
 
 #### (February 2023 - current)
 
-Lead software engineer responsible for the design, develop and maintenance of multiple projects related to customers sales for the client Lucid Motors.
+Tech lead for the Lucid Financial Services, my duties included system design, managing other developers, mentoring, coordinating with other teams, coding and testing of the features, and business requirements reviews.
 
 Experience on this period:
 
